@@ -1,4 +1,4 @@
-def two_monkeys(asmile, asmile):
+def two_monkeys(asmile, bsmile):
     return True
 
 if __name__ == '__main__':
